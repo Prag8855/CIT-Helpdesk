@@ -1,2 +1,2 @@
-# CIT-Helpdesk-
+# CIT-Helpdesk
 Web hosted IT helpdesk blog 
